@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-19T03:02:47.148Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.42" etag="MpiSZnsZYFJA4dlv36o0" version="21.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-19T03:05:03.021Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.42" etag="FjbjXG5kyC6W2a6cePEF" version="21.1.8" type="github">
   <diagram name="第 1 页" id="FGHFbj_ZHUggFBItJckx">
-    <mxGraphModel dx="1452" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2507" dy="1389" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -45,6 +45,48 @@
         </mxCell>
         <mxCell id="cLhpEuqwZRvciZhaV4CC-43" value="&lt;font style=&quot;font-size: 28px;&quot;&gt;点在三角形ABC外&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="40" y="10" width="250" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="cLhpEuqwZRvciZhaV4CC-54" value="A" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="430" y="730" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cLhpEuqwZRvciZhaV4CC-56" value="B" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="210" y="960" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cLhpEuqwZRvciZhaV4CC-57" value="C" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="490" y="1010" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cLhpEuqwZRvciZhaV4CC-58" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#FF33FF;exitX=0.95;exitY=0.049;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="cLhpEuqwZRvciZhaV4CC-60" target="cLhpEuqwZRvciZhaV4CC-59" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="900" as="sourcePoint" />
+            <mxPoint x="190" y="860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cLhpEuqwZRvciZhaV4CC-59" value="" style="triangle;whiteSpace=wrap;html=1;rotation=45;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="300" y="790" width="230" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="cLhpEuqwZRvciZhaV4CC-60" value="O&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="370" y="915" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cLhpEuqwZRvciZhaV4CC-61" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#FF33FF;exitX=0.476;exitY=0.143;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" source="cLhpEuqwZRvciZhaV4CC-55" target="cLhpEuqwZRvciZhaV4CC-59" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="149" y="901" as="sourcePoint" />
+            <mxPoint x="200" y="800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cLhpEuqwZRvciZhaV4CC-62" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#FF33FF;exitX=0.95;exitY=0.049;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.003;entryY=1.001;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" source="cLhpEuqwZRvciZhaV4CC-60" target="cLhpEuqwZRvciZhaV4CC-59" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="149" y="901" as="sourcePoint" />
+            <mxPoint x="230" y="970" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cLhpEuqwZRvciZhaV4CC-63" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;S&lt;/font&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;ABC&lt;/font&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;&amp;nbsp;= S&lt;/font&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;AOB&lt;/font&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt; + S&lt;/font&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;AOC&lt;/font&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt; + S&lt;/font&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;BOC&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="30" y="650" width="300" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="cLhpEuqwZRvciZhaV4CC-64" value="&lt;font style=&quot;font-size: 28px;&quot;&gt;点在三角形ABC内&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="30" y="600" width="250" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="cLhpEuqwZRvciZhaV4CC-55" value="" style="ellipse;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="390" y="915" width="10" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
